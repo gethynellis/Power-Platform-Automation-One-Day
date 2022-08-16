@@ -64,7 +64,7 @@ columns without needing custom code.
 16. Enter **Scenario Description** for **Display Name**, select **Text Area**
     for **Data Type**, and click **Save**.
 
-17. Click **Save Table**.
+
 
 ### Task 2 – Add Columns to Knowledge Question Form
 
