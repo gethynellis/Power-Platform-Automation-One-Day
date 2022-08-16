@@ -89,12 +89,12 @@ Note: You can adjust the screen using the screen size slider at the bottom of th
 
 8.  Click **Publish**. (Top right-hand side of the screen)
 
-9.  Click **Back.**
+9.  Click **Back.** (Top left-hand side of the screen)
 
-10. Click on the solution name **Knowledge Assessment Solution.** located
-    in the navigation breadcrumbs.
+10. Click **Back to solutions** to return to the solution page
 
-11. Click **Publish all customizations.**
+
+11. Click **Publish all customizations.** Be patient with this it can take a while.
 
 ## Exercise 2 – Create Business Rule
 
@@ -110,7 +110,7 @@ Note: You can adjust the screen using the screen size slider at the bottom of th
 
 5.  Click to open the **Knowledge Question** table.
 
-6.  Select the **Business Rules** tab and click **Add business rule**.
+6.  Under the **Customizations** section Select the **Business Rules** tab and click **Add business rule**.
 
 7.  Next to **New business rule** name at the top of the screen, select the
     dropdown carrot.
