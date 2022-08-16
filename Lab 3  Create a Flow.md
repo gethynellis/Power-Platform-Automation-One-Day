@@ -36,19 +36,20 @@ older and deactivate them.
 
 1.  Navigate to <https://make.powerapps.com>.
 
-2.  Make sure you have your **Practice** environment selected.
+2.  Make sure you have your **Practice** environment selected. You will find the enviornment in the top right-hand corner of the screen.
 
-3.  Select **Solutions** and click to open the **Common Data Services Default
-    Solution.**
+3.  Select **Solutions** and click to open the **Knowledge Assessment Solution** You need to open the **Knowledge Assessment Solution** to get the correct code
 
 4.  Locate the **Name** column and make a note of the name **Prefix**. The
     prefix will look like **crXXX\_**.
 
-5.  From the left hand menu, select **Flows.** (If you get a pop-up here, just
+5.  From the left hand menu, select **Cloud Flows.** 
+
+6.  Click **New** then select **Automation** and select **Cloud Flow** and select **+ Automated **.
+
+(If you get a pop-up here, just
     choose your country/region and select **Get started.**) 
     **Hint:** Click the **Home** on the left hand navigation menu to view the **Flow**, make sure you have your **Practice** environment is selected.
-
-6.  Click **+ New Flow** and select **+ Automated cloud flow**.
 
 7.  The pop-up will show common triggers that you can easily select to
     jump-start your flow configuration. Scroll through the options, but do not
