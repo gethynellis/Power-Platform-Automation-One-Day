@@ -40,18 +40,19 @@ business process flows and then build a business process flow.
 
 5.  Click to open the **Knowledge Assessment** table.
 
-6.  Click **+ New Column**.
+6.  Click **Columns**.
 
-7.  Enter **Passing Score (%)** for **Display Name**, select **Whole Number**
-    for **Data Type** and click **Done**.
+8.  Click **+New Column**
+
+7.  Enter **Passing Score (%)** for **Display Name**, select **Numbers** then  **Whole Number**
+    for **Data Type** and click **Save**.
 
 8.  Click **+ New Column**.
 
-9.  Enter **Create Questions** for **Display Name** and select **Yes/No** for
+9.  Enter **Create Questions** for **Display Name** and select **Choice** and then **Yes/No** for
     **Data Type**.
 
-10. Click **SAve**.
-
+10. Click **Save**.
 
 12. Navigate back to the solution.
 
@@ -94,10 +95,10 @@ business process flows and then build a business process flow.
 7.  Enter **Question Points** for **Display Name** and select **Whole Number**
     for **Data Type**.
 
-8.  Click **+ Add** next to **Calculation or Rollup** and select **+
+8.  Click the drop-down next to   **Behaviour** and Click on to **Calculation or Rollup** and select **+
     Calculation**.
 
-9.  Click **Save**.
+9.  Click **Save and Edit**.
 
 10. If you receive the **Set Question Points** popup >> click **+ Add Action**, else on the **Currently editing the calculated coulmn** popup message >> click **Done**. Then click the newly added column **Question Points** from the column list and in the property pane click the **Open Calculation** >> click **" Add Action**.
 
@@ -124,6 +125,8 @@ cre7f_answer1points + cre7f_answer2points + cre7f_answer3points + cre7f_answer4p
 
 2.  Select the **Forms** tab and click to open the **Main** form.
 
+3. CLick on the **+Form Field** button at the top of the screen to show the columns in the table.
+
 3.  Drag the **Question Points** column from the **Table Column** and drop it below the **Knowledge
     Assessment** column on the form.
 
@@ -141,12 +144,12 @@ cre7f_answer1points + cre7f_answer2points + cre7f_answer3points + cre7f_answer4p
 
 1.  Select **Solutions** >> click on the **Knowledge Assessment Solution.** >> Click to open the **Knowledge Assessment** table.
 
-2.  Select the **Columns tab** and click **+ Add column**
+2.  Select the **Columns tab** and click **+ New column**
 
 3.  Enter **Total Points** for **Display Name** and select **Whole Number** for
     **Data Type**.
 
-4.  Click **+ Add** next to **Calculation or Rollup** and select **+ Rollup**.
+4.  Click **Behaviou** drop down list and select  **+ Rollup**.
 
 5.  Click **Save**.
 
