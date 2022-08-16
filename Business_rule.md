@@ -1,6 +1,6 @@
 ---
 lab:
-    title: 'Lab 6.3: Configure a new business rule'
+    title: 'Lab Configure a new business rule'
     module: 'Module 6: Introduction to automation'
 ---
 
