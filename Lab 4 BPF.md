@@ -36,7 +36,7 @@ business process flows and then build a business process flow.
 
 3.  Select **Solutions**.
 
-4.  Click to open the **Common Data Services Default Solution**.
+4.  Click to open the **Knowledge Assessment Solution.**.
 
 5.  Click to open the **Knowledge Assessment** table.
 
@@ -76,6 +76,118 @@ business process flows and then build a business process flow.
 
 8.  Click **Publish all customizations**.
 
+************************************************************************
+
+### Task 3 – Add Field to Knowledge Question
+
+1.  Navigate to <https://make.powerapps.com>.
+
+2.  Select the **Practice** environment you created.
+
+3.  Select **Solutions**.
+
+4.  Click to open the **Knowledge Assessment Solution.**.
+
+5.  Click to open the **Knowledge Question** table.
+
+6.  Select the **Columns** tab and click **+ Add Column**.
+
+7.  Enter **Question Points** for **Display Name** and select **Whole Number**
+    for **Data Type**.
+
+8.  Click **+ Add** next to **Calculation or Rollup** and select **+
+    Calculation**.
+
+9.  Click **Save**.
+
+10. If you receive the **Set Question Points** popup >> click **+ Add Action**, else on the **Currently editing the calculated coulmn** popup message >> click **Done**. Then click the newly added column **Question Points** from the column list and in the property pane click the **Open Calculation** >> click **" Add Action**.
+
+11. Type **answer1points** and select the suggested column from the drop-down list.
+
+12. Type **+** , type **answer2points** and select the suggested column from the drop-down list.
+
+13. Repeat it for **answer3points** and **answer4points**. You action will look
+    like the snippet below but with your unique organizational prefix.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cre7f_answer1points + cre7f_answer2points + cre7f_answer3points + cre7f_answer4points
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+14.  Save the action by clicking on the checkmark button.
+
+15.  Click **Save and Close**.
+
+16.  Click **Done**.
+
+### Task 4 – Add column to Knowledge Question Form
+
+1.  Make sure you still have the **Knowledge Question** table selected.
+
+2.  Select the **Forms** tab and click to open the **Main** form.
+
+3.  Drag the **Question Points** column from the **Table Column** and drop it below the **Knowledge
+    Assessment** column on the form.
+
+4.  Click **Save**.
+
+5.  Click **Publish**.
+
+6.  Click the back button.
+
+7.  Click on the solution name located in the navigation breadcrumbs.
+
+8.  Click **Publish all customizations.**
+
+### Task 5 – Add Column to Knowledge Assessment
+
+1.  Select **Solutions** >> click on the **Knowledge Assessment Solution.** >> Click to open the **Knowledge Assessment** table.
+
+2.  Select the **Columns tab** and click **+ Add column**
+
+3.  Enter **Total Points** for **Display Name** and select **Whole Number** for
+    **Data Type**.
+
+4.  Click **+ Add** next to **Calculation or Rollup** and select **+ Rollup**.
+
+5.  Click **Save**.
+
+6.  On the **Currently editing the calculated coulmn** popup message >> click **Done**. Then click the newly added column **Total Points** from the column list and in the property pane click the **Open Calculation** >> Click **+ Add Related Entity**.
+
+7.  Select **Knowledge Questions(Knowledge Assessment)** for **Related** and click the checkmark.
+
+8.  Click **+ Add Aggregation**.
+
+9.  Select **SUM** for **Aggregation Function**, select **(Knowledge Questions)Question Points** for
+    **Aggregated Related Entity Field**, and click the checkmark.
+
+10. Click **Save and Close**.
+
+11. Click **Done**.
+
+12. Click on the solution name.
+
+13. Click **Publish all customizations**.
+
+### Task 6 – Add Column to Knowledge Assessment Form
+
+1.  Click on the **Knowledge Assessment Solution.** and then Select the **Knowledge Assessment** table.
+
+2.  Select the **Forms** tab and click on the Main form.
+
+3.  Drag the **Total Points** column from the **Table Column** list and drop it below the **Difficulty** column
+    on the form.
+
+4.  Click **Save**.
+
+5.  Click **Publish**.
+
+6.  Click the back button.
+
+7.  Click on the solution name located in the navigation breadcrumbs.
+
+8.  Click **Publish all customizations**.
+
+****************************************************************************************
 ## Exercise 2 – Create Business Process Flow
 
 ### Task 1 – Create Business Process Flow
