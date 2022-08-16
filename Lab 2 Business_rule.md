@@ -51,20 +51,20 @@ columns without needing custom code.
 
 10.  Under **Sync with global choice?** choose **No** 
 
-12. Under the **Choice** section, enter  **Simple** under label and click **+ New Choice**.
+11. Under the **Choice** section, enter  **Simple** under label and click **+ New Choice**.
 
-13. Enter **Scenario** as the second label
+12. Enter **Scenario** as the second label
 
-11. From the **Required** dropdown, select **Business Required.**
+13. From the **Required** dropdown, select **Business Required.**
 
-12. Click **Save.** and wait for you changes to be saved
+14. Click **Save.** and wait for you changes to be saved
 
-13. Click **+ Add Column**.
+15. Click **+New Column** 
 
-14. Enter **Scenario Description** for **Display Name**, select **Text Area**
+16. Enter **Scenario Description** for **Display Name**, select **Text Area**
     for **Data Type**, and click **Save**.
 
-15. Click **Save Table**.
+17. Click **Save Table**.
 
 ### Task 2 – Add Columns to Knowledge Question Form
 
