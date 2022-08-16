@@ -1,6 +1,6 @@
 ---
 lab:
-    title: 'Lab 7.1: Create a flow'
+    title: 'Lab 3:  Create a flow'
     module: 'Module 7: Build Power Automate cloud flows'
 ---
 
