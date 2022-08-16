@@ -34,7 +34,7 @@ columns without needing custom code.
 
 3.  Select **Solutions**.
 
-4.  Click to open the **Common Data Services Default Solution.**
+4.  Click to open the **Knowledge Assessment Solution.**
 
 5.  Click to open the **Knowledge Question** table.
 
