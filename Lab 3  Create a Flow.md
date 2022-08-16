@@ -123,9 +123,13 @@ crXXX_enddate lt
 3.  Select **Apps** and click to open the **Knowledge Admin** model-driven
     application.
 
-4.  Navigate to **Knowledge Assessments** and click to open the **Test Assessment Four**.
+4.  Navigate to **Assessments**
 
-5.  Locate the **End Date** field and select today’s date.
+6.  and click  **+New**.
+
+7. Enter a tite of **Demo Test**
+
+8. Enter a **Start Data** and **End date** of today's date
 
 6.  Click **Save**.
 
@@ -150,27 +154,3 @@ crXXX_enddate lt
 
 16. The deactivated rows will now be in this view.
 
-17. Go back to flow and click **Edit**.
-
-18. Click on the **Recurrence** trigger.
-
-19. Change the **Recurrence** from **Minute** to **Week**.
-
-20. Click **Save**.
-
-21. Go back to the **Knowledge Admin** application.
-
-22. Select **Knowledge Assessments**.
-
-23. Click on the view name and select the **Inactive Knowledge Assessments**
-    view.
-
-24. Click to open the **Test Assessment Four** record.
-
-25. Click **Activate**.
-
-26. Confirm activation.
-
-27. Change the **End Date** to one month from today.
-
-28. Click **Save**.
