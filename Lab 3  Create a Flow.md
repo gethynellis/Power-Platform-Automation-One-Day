@@ -26,6 +26,8 @@ can’t schedule a workflow without custom code so you will need to use a
 Microsoft Power Automate cloud flow. In this lab, you will create a cloud flow
 to run weekly and test the flow.
 
+## ALL EXERCISES ARE TO BE COMPLETED IN THE VIRTUAL MACHINE PROVIDED BY SKILLABLE (OR OTHER HOSTING PROVIDER)
+
 ## Exercise 1 – Create Microsoft Power Automate cloud flow
 
 In this exercise, you will create a cloud flow that will run once a week. This
