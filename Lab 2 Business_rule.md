@@ -30,33 +30,37 @@ columns without needing custom code.
 
 1.  Navigate to <https://make.powerapps.com>.
 
-2.  Make sure you are in the **Practice** environment you created.
+2.  Make sure you are in the **Practice** environment you created. You will find the enviornment in the top right-hand corner of the screen.
 
-3.  Select **Solutions**.
+3.  Select **Solutions** from the left-hand menu. Its the last option in the list
 
 4.  Click to open the **Knowledge Assessment Solution.**
 
-5.  Click to open the **Knowledge Question** table.
+5.  Click tables from the Object list and click to open the **Knowledge Question** table.
 
-6.  Click **+ Add Column**.
+5. Under the **Schema** section click on **Columns**
+
+6.  Click **+ New Column**.
 
 7.  Enter **Question Type** for **Display Name** and select **Choice** for
     **Data Type**.
 
-8.  Click on the **Choice** dropdown and click **+ New Choice**.
+8.  Click on the **Choice** from the data type dropdown dropdown and click **Choice** from the drop-downlist menu
 
-9.  Enter **Simple** and click **Add New Item**.
+10.  Under **Sync with global choice?** choose **No** 
 
-10. Enter **Scenario** and click **Save**.
+12. Under the **Choice** section, enter  **Simple** under label and click **+ New Choice**.
 
-11. From the **Required** dropdown, select **Required.**
+13. Enter **Scenario** as the second label
 
-12. Click **Done.**
+11. From the **Required** dropdown, select **Business Required.**
+
+12. Click **Save.** and wait for you changes to be saved
 
 13. Click **+ Add Column**.
 
 14. Enter **Scenario Description** for **Display Name**, select **Text Area**
-    for **Data Type**, and click **Done**.
+    for **Data Type**, and click **Save**.
 
 15. Click **Save Table**.
 
@@ -64,7 +68,11 @@ columns without needing custom code.
 
 1.  Make sure you still have the **Knowledge Question** table selected.
 
-2.  Select the **Forms** tab and click to open the **Main** form.
+2.  Select the **Forms** option from the left hand Objects menu and click to open the **Main** form type. It can be consuing becuase all forms are called Information. Click on the information for the **Main** form type
+
+3. Click on **+ Form field** at the top of the screen. This will list all fields in the **Knowledge Question** we can the add our newly created columns to the main form.
+
+Note: You can adjust the screen using the screen size slider at the bottom of the screen
 
 3.  Drag the **Question Type** column from the **Table columns** and drop it
     above the **Question** column on the form.
@@ -72,18 +80,18 @@ columns without needing custom code.
 4.  Drag the **Scenario Description** column and drop it below the **Question
     Type** column.
 
-5.  With **Scenario Description** selected, check **Hide.**
+5.  With **Scenario Description** selected, check **Hide.** from the properties menu on the left hand-side menu
 
 6.  Uncheck **Show only unused table columns** and drag the **Knowledge
     Assessment** column and drop it below the **Owner** column on the form.
 
-7.  Click **Save**.
+7.  Click **Save**. (Top right-hand side of the screen)
 
-8.  Click **Publish**.
+8.  Click **Publish**. (Top right-hand side of the screen)
 
 9.  Click **Back.**
 
-10. Click on the solution name **Common Data Services Default Solution** located
+10. Click on the solution name **Knowledge Assessment Solution.** located
     in the navigation breadcrumbs.
 
 11. Click **Publish all customizations.**
@@ -98,7 +106,7 @@ columns without needing custom code.
 
 3.  Select **Solutions.**
 
-4.  Click to open the **Common Data Services Default Solution.**
+4.  Click to open the **Knowledge Assessment Solution**
 
 5.  Click to open the **Knowledge Question** table.
 
