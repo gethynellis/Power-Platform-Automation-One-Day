@@ -34,7 +34,7 @@ columns without needing custom code.
 
 2.  Make sure you are in the **Practice** environment you created. You will find the enviornment in the top right-hand corner of the screen.
 
-3.  Select **Solutions** from the left-hand menu. Its the last option in the list
+3.  Select **Solutions** from the left-hand menu. Its the last option in the list.
 
 4.  Click to open the **Knowledge Assessment Solution.**
 
