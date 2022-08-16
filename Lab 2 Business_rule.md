@@ -24,6 +24,8 @@ to work on a model-driven Knowledge Admin app for your client Fabrikam. In this
 lab, you will create columns and use business rules to control visibility of the
 columns without needing custom code.
 
+## ALL EXERCISES ARE TO BE COMPLETED IN THE VIRTUAL MACHINE PROVIDED BY SKILLABLE (OR OTHER HOSTING PROVIDER)
+
 ## Exercise 1 - Prepare the solution
 
 ### Task 1 – Add Columns to Knowledge Question
