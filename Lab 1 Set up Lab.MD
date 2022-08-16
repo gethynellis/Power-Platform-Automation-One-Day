@@ -23,6 +23,8 @@ In this Module 1 lab, you will acquire a Power Platform trial tenant and access
 the Microsoft Power Platform admin center. In the admin center, we will create an
 individual environment for configuration during the course.
 
+## ALL EXERCISES ARE TO BE COMPLETED IN THE VIRTUAL MACHINE PROVIDED BY SKILLABLE (OR OTHER HOSTING PROVIDER)
+
 ## Exercise 1 – Acquire your Microsoft Power Platform trial tenant
 
 1. Ensure you have downloaded the neccessary files from **GITHUB** by clicking the blue button to download the files. Ask your instructor if you need additional support to do this.
