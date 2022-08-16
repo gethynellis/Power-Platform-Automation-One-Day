@@ -66,7 +66,7 @@ do the majority of your lab work in.
 
     -   For **Name**, enter **[my initials] Practice.** (Example: AJ Practice.)
 
-    -   For **Type**, select **Trial.** DO NOT SELECT n option for **Trial
+    -   For **Type**, select **Trial.** DO NOT SELECT the option for **Trial
         (subscription-based)** - select the option that only says **Trial.** It is the last option in the list
 
     -   Change the **Create a database for this environment?** toggle to
