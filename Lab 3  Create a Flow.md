@@ -108,7 +108,7 @@ crXXX_enddate lt
 
 27. Rename the step **Deactivate Assessment**.
 
-28. Scroll up and click on the name of the flow by clicking **Untitled.**
+28. If you need tp Scroll, scroll  up to the top of the page and click on the name of the flow by clicking **Untitled.**
 
 29. Rename the flow **Deactivate Old Assessments**.
 
