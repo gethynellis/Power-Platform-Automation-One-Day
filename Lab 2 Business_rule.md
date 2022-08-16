@@ -112,7 +112,7 @@ Note: You can adjust the screen using the screen size slider at the bottom of th
 
 5.  Click to open the **Knowledge Question** table.
 
-6.  Under the **Customizations** section Select the **Business Rules** tab and click **Add business rule**.
+6.  Under the **Customizations** section Select the **Business Rules** tab and click **+ New business rule**.
 
 7.  Next to **New business rule** name at the top of the screen, select the
     dropdown carrot.
