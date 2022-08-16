@@ -25,11 +25,11 @@ individual environment for configuration during the course.
 
 ## Exercise 1 – Acquire your Microsoft Power Platform trial tenant
 
-1.  Copy your **Microsoft 365 credentials** from the Authorized Lab Hoster.
+1.  Copy your **Microsoft 365 credentials** from the Authorized Lab Hoster. You will find this under the **Resources** tab of the lab computer. (Next to the instructions tab
 
-2.  Navigate to <https://powerapps.microsoft.com/>.
+2.  Navigate to <https://powerapps.microsoft.com/> in a web browser. Edge is installed on the Lab VM. PLease use the Edge Browser
 
-3.  Click **Start free.**
+3.  Click **Start free.** It is the big purple button in the middle of the screen
 
 4.  Under **Let's get you started** page, enter the email address from your Microsoft 365
     credentials in the text box that says **Enter your work email address.**. Then 
