@@ -28,7 +28,7 @@ business process flows and then build a business process flow.
 
 ## Exercise 1 – Prepare the Solution
 
-### Task 1 – Add Columns to Knowledge Assessment
+### Task 1 – Add Columns to Knowledge Assessment table
 
 1.  Navigate to <https://make.powerapps.com>.
 
@@ -40,19 +40,18 @@ business process flows and then build a business process flow.
 
 5.  Click to open the **Knowledge Assessment** table.
 
-6.  Click **+ Add Column**.
+6.  Click **+ New Column**.
 
 7.  Enter **Passing Score (%)** for **Display Name**, select **Whole Number**
     for **Data Type** and click **Done**.
 
-8.  Click **+ Add Column**.
+8.  Click **+ New Column**.
 
 9.  Enter **Create Questions** for **Display Name** and select **Yes/No** for
     **Data Type**.
 
-10. Click **Done**.
+10. Click **SAve**.
 
-11. Click **Save Table**.
 
 12. Navigate back to the solution.
 
