@@ -129,7 +129,7 @@ crXXX_enddate lt
 
 7. Enter a tite of **Demo Test**
 
-8. Enter a **Start Data** and **End date** of today's date
+8. Enter a **Start Date** and **End date** of today's date
 
 6.  Click **Save**.
 
