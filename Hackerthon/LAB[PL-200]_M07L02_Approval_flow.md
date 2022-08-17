@@ -29,6 +29,10 @@ In this lab, you will create a **Microsoft Power Automate** cloud flow to
 retrieve the appropriate manager, seek their approval, and edit the row based on
 the manager's decision.
 
+### Prerequisite - You need to complete the BPF lab
+
+**You will need to complete the BPF lab to be able to complete this. The BPF lab, exercise 1 creates several columns in the tables in the solution. You may need these columns for this lab to work**
+
 ## Exercise 1 – Prepare the solution
 
 ### Task 1 – Add field to the Knowledge Assessment
