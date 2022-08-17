@@ -1,6 +1,7 @@
 ---
 lab:
-    title: 'Lab 7.2: Build an approval flow'
+    title: 'Hackathon Lab: Build an approval flow'
+    This is taken from Module 7, lab 7.2
     module: 'Module 7: Build Power Automate cloud flows'
 ---
 
@@ -36,21 +37,21 @@ the manager's decision.
 
 2.  Ensure you are in the **Practice** environment you created.
 
-3.  Click **Solutions**.
+3.  Click **Solutions**. from the left-hand menu
 
-4.  Click to open the **Common Data Services Default Solution.**
+4.  Click to open the **Knowledge Assessment Solution**
 
-5.  Click to open the **Knowledge Assessment** table.
+5.  Under the **Objects** menu on the left hand side, expand tables and Click to open the **Knowledge Assessment** table.
 
-6.  Click select the **Columns** tab and click **+ Add column**.
+6.  Clickon  **Columns** under the schema section tab and click **+ New column**.
 
 7.  Create the column to the following specification:
 
     -   Enter **Notify Manager** for **Display Name**.
 
-    -   Choose **Yes/No** for **Data Type**.
+    -   Set  **CHOICE > Yes/No** for **Data Type**.
 
-    -   Click **Done**.
+    -   Click **Save**.
 
 8.  Click **+ Add Column**.
 
@@ -58,29 +59,30 @@ the manager's decision.
 
     -   Enter **Approval Status** for **Display Name**.
 
-    -   Choose **Choice** for **Data Type**.
+    -   Choose **Choice > Choice ** for **Data Type**.
 
-    -   Click on the **Choice** dropdown and choose **+ New choice**.
+    -   Click **No** under the **Sync with global Choice** Section
 
-    -   Enter **Waiting** for the first item and click **Add New Item**.
+    -   Enter **Waiting** for the first item and click **+ New Choice**.
 
-    -   Enter **Approved** for the second item and click **Add New Item**.
+    -   Enter **Approved** for the second item and click **+ New Choice**.
 
     -   Enter **Rejected** for the third item and click **Save**.
 
-    -   Click **Done**.
 
-10. Click **Save Table**.
 
 ### Task 2 – Add Column to Knowledge Assessment Form
 
 1.  Make sure you still have the **Knowledge Assessment** table selected.
 
-2.  Select the **Forms** tab and click on the **Main** form.
+2.  Select the **Forms** from the left-hand side menu and click on the **Main** form type. All forms are called **Information** Select the Information for the row with *form Type* of **Main**
 
-3.  Add the **Notify Manager** column to the form.
 
-4.  Add the **Approval Status** column to the form.
+4.  Click on  **+ Form field**
+
+3.  Add the **Notify Manager** column to the form. (You can use drag and drop)
+
+4.  Add the **Approval Status** column to the form. (You can use drag and drop)
 
 5.  Click **Save**.
 
@@ -100,7 +102,7 @@ the manager's decision.
 
 2.  Make sure you are in the **Practice** environment you created.
 
-3.  Select **Flows** from the left navigation pane and click **+ New flow.** Select **Automated cloud flow** In
+3.  Select **Flows** from the left navigation pane, click **Get Started** if prompted and click **+ New flow.** Select **Automated cloud flow** In
     the pop-up, select **Skip.**
 
 4.  Type into the search box **Microsoft Dataverse** and select **When a row is
