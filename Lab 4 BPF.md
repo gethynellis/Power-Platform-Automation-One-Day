@@ -78,7 +78,73 @@ business process flows and then build a business process flow.
 
 ************************************************************************
 
-### Task 3 – Add Field to Knowledge Question
+### Task 3 – Add field to the Knowledge Assessment
+
+1.  Navigate to <https://make.powerapps.com>.
+
+2.  Ensure you are in the **Practice** environment you created.
+
+3.  Click **Solutions**. from the left-hand menu
+
+4.  Click to open the **Knowledge Assessment Solution**
+
+5.  Under the **Objects** menu on the left hand side, expand tables and Click to open the **Knowledge Assessment** table.
+
+6.  Clickon  **Columns** under the schema section tab and click **+ New column**.
+
+7.  Create the column to the following specification:
+
+    -   Enter **Notify Manager** for **Display Name**.
+
+    -   Set  **CHOICE > Yes/No** for **Data Type**.
+
+    -   Click **Save**.
+
+8.  Click **+ Add Column**.
+
+9.  Create the field to the following specification:
+
+    -   Enter **Approval Status** for **Display Name**.
+
+    -   Choose **Choice > Choice ** for **Data Type**.
+
+    -   Click **No** under the **Sync with global Choice** Section
+
+    -   Enter **Waiting** for the first item and click **+ New Choice**.
+
+    -   Enter **Approved** for the second item and click **+ New Choice**.
+
+    -   Enter **Rejected** for the third item and click **Save**.
+
+
+
+### Task 4 – Add Column to Knowledge Assessment Form
+
+1.  Make sure you still have the **Knowledge Assessment** table selected.
+
+2.  Select the **Forms** from the left-hand side menu and click on the **Main** form type. All forms are called **Information** Select the Information for the row with *form Type* of **Main**
+
+
+4.  Click on  **+ Form field**
+
+3.  Add the **Notify Manager** column to the form. (You can use drag and drop)
+
+4.  Add the **Approval Status** column to the form. (You can use drag and drop)
+
+5.  Click **Save**.
+
+6.  Click **Publish**.
+
+7.  Click the back button.
+
+8.  Navigate back to the solution.
+
+9.  Click **Publish All Customizations**.
+
+
+************************************************************************
+
+### Task 5 – Add Field to Knowledge Question
 
 1.  Navigate to <https://make.powerapps.com>.
 
@@ -119,7 +185,7 @@ cre7f_answer1points + cre7f_answer2points + cre7f_answer3points + cre7f_answer4p
 
 16.  Click **Done**.
 
-### Task 4 – Add column to Knowledge Question Form
+### Task 6 – Add column to Knowledge Question Form
 
 1.  Make sure you still have the **Knowledge Question** table selected.
 
@@ -140,7 +206,7 @@ cre7f_answer1points + cre7f_answer2points + cre7f_answer3points + cre7f_answer4p
 
 8.  Click **Publish all customizations.**
 
-### Task 5 – Add Column to Knowledge Assessment
+### Task 7 – Add Column to Knowledge Assessment
 
 1.  Select **Solutions** >> click on the **Knowledge Assessment Solution.** >> Click to open the **Knowledge Assessment** table.
 
@@ -149,7 +215,7 @@ cre7f_answer1points + cre7f_answer2points + cre7f_answer3points + cre7f_answer4p
 3.  Enter **Total Points** for **Display Name** and select **Whole Number** for
     **Data Type**.
 
-4.  Click **Behaviou** drop down list and select  **+ Rollup**.
+4.  Click **Behaviour** drop down list and select  **+ Rollup**.
 
 5.  Click **Save**.
 
@@ -170,7 +236,7 @@ cre7f_answer1points + cre7f_answer2points + cre7f_answer3points + cre7f_answer4p
 
 13. Click **Publish all customizations**.
 
-### Task 6 – Add Column to Knowledge Assessment Form
+### Task 8 – Add Column to Knowledge Assessment Form
 
 1.  Click on the **Knowledge Assessment Solution.** and then Select the **Knowledge Assessment** table.
 
