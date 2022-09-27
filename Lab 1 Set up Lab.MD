@@ -31,6 +31,8 @@ individual environment for configuration during the course.
 
 1.  Your **Microsoft 365 credentials** from the Authorized Lab Hoster can be found underthe  **Resources** tab of the lab computer. (Next to the instructions tab)
 
+![You can find the office credentials here](Images/1-LoginCreds.png)
+
 2.  Navigate to <https://powerapps.microsoft.com/> in a web browser. Edge is installed on the Lab VM. PLease use the Edge Browser
 
 3.  Click **Start free.** It is the big purple button in the middle of the screen
