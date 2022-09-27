@@ -106,11 +106,14 @@ from not appearing as they should.
 
 In this excerise we will import the Knowledge Assessment Solution that conatins the two Power Apps needs to implement the assessment enviornment
 
-1.  Navigate to <https://make.powerapps.com>. You will likely have this open from excercise 1. It will be a tab in your browswer
+1.  In the lab machine. on the very first instruction page there blue button called **Download Lab Files** please click that button and wait for the lab files to download from github.
+![Download the lab files](Images/7.png)
 
-2.  Make sure you are in the **Practice** environment you created. You will find the enviornment in the top right-hand corner of the screen.
+2.  Navigate to <https://make.powerapps.com>. You will likely have this open from excercise 1. It will be a tab in your browswer
 
-3.  Select **Solutions** from the left-hand menu. Its the last option in the list
+3.  Make sure you are in the **Practice** environment you created. You will find the enviornment in the top right-hand corner of the screen.
+
+4.  Select **Solutions** from the left-hand menu. Its the last option in the list
 
 4. Select **<--| Import solution** which you will find at the top menu of the screen
 
