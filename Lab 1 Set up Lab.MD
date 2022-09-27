@@ -37,6 +37,8 @@ individual environment for configuration during the course.
 
 3.  Click **Start free.** It is the big purple button in the middle of the screen
 
+![You can find the office credentials here](Images/2-startfree.png)
+
 4.  Under **Let's get you started** page, enter the email address from your Microsoft 365
     credentials in the text box that says **Enter your work email address.**. Then 
     click **Next**. 
@@ -52,6 +54,7 @@ individual environment for configuration during the course.
     again. Select **Sign in**, click the email account you just signed in with,
     and continue. You may also be prompted to provide more information. Enter
     1234567890 in the Phone number field, and click **Get started**.
+![You can find the office credentials here](Images/3-email.png)
 
 8.  Select **Yes** to stay signed in. On the page that shows **You're all set**,
     click **Get started**.
@@ -82,6 +85,8 @@ do the majority of your lab work in.
 
     -   On the next tab, change the toggle for **Deploy sample apps and data?**
         to **Yes.** Click **Save**.
+        
+![You can find the office credentials here](Images/4-CreateAnEnvironement.png)
 
 3.  Your **Practice** environment should now show in the list of Environments.
 
