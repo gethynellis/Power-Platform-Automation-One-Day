@@ -86,7 +86,7 @@ do the majority of your lab work in.
     -   On the next tab, change the toggle for **Deploy sample apps and data?**
         to **Yes.** Click **Save**.
         
-![You can find the office credentials here](Images/4-CreateAnEnvironement.png)
+![You can find the office credentials here](Images/4-CreateAnEnvironment.png)
 
 3.  Your **Practice** environment should now show in the list of Environments.
 
