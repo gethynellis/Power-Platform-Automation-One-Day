@@ -120,4 +120,6 @@ In this excerise we will import the Knowledge Assessment Solution that conatins 
 
 7. Click **Next**
 
+![Import the solution](Images/5.png)
+
 8. Click **Import** the import can take several minutes. We will move on with the taught material once this has been completed
