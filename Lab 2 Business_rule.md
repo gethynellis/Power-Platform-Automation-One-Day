@@ -51,6 +51,8 @@ columns without needing custom code.
 
 10.  Under **Sync with global choice?** choose **No** 
 
+![Sync with chpices](Images/6.png)
+
 11. Under the **Choice** section, enter  **Simple** under label and click **+ New Choice**.
 
 12. Enter **Scenario** as the second label
